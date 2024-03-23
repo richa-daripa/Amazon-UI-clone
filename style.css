@@ -16,7 +16,7 @@
     width: 120px;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("image/amazon_logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -104,7 +104,7 @@ span{
     font-size: 0.9rem;
 }
 .ad-section{
-    background-image: url("backimage.jpg");
+    background-image: url("image/backimage.jpg");
     background-size: cover;
     height: 250px;
 }
@@ -174,7 +174,7 @@ ul p{
     align-items: center;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("image/amazon_logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
